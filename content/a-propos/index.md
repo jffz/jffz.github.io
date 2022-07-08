@@ -3,7 +3,7 @@ title = "A propos"
 +++
 
 ### Qui sommes nous ?
-[le-reseau.tech](https;//le-reseau.tech) est une communauté axée autour de ce que certains appellent `la french tech`.
+[le-reseau.tech](https://le-reseau.tech) est une communauté axée autour de ce que certains appellent `la french tech`.
 Maintenue par des acteurs techniques de cet univers, celle-ci se veut dépourvue d'acteurs marketing
 et se concentre sur les aspects techniques.
 
