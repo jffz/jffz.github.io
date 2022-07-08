@@ -1,4 +1,4 @@
-baseurl                = "https://jffz.github.io"
+baseurl                = ""
 title                  = "le-reseau.tech"
 languageCode           = "fr-fr"
 defaultContentLanguage = "fr"
